@@ -1,0 +1,41 @@
+﻿@model Template.BL.Models.DepartmentVM
+
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete Employee</h2>
+
+
+<br />
+
+<center>
+    <h3 class="text-danger">Are You Sure To Delete This Department !</h3>
+</center>
+
+<br />
+<form asp-action="Delete" asp-controller="Department" class="form-group">
+
+
+    <label asp-for="Id">Employee Id</label>
+    <input type="text" class="form-control" asp-for="Id" disabled />
+    <br />
+
+
+    <label asp-for="Name">Employee Name</label>
+    <input type="text" class="form-control" asp-for="Name" disabled/>
+    <br />
+
+    <label asp-for="salary">Employee salary</label>
+    <input type="text" class="form-control" asp-for="salary" disabled/>
+    <br />
+
+    <center>
+        <input type="submit" value="Delete" class="btn btn-primary" />
+        <a asp-controller="Department" asp-action="Index" class="btn btn-primary">Back To Data</a>
+
+    </center>
+
+</form>
+

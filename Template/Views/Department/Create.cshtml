@@ -1,0 +1,42 @@
+﻿@model Template.BL.Models.DepartmentVM
+
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Add New Employee</h2>
+
+
+<form asp-action="Create" asp-controller="Department" class="form-group">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <label asp-for="Id">Employee Id</label>
+    <input type="text" class="form-control" asp-for="Id" />
+    <span asp-validation-for="Id" class="text-danger font-weight-bold"></span>
+    <br />
+
+
+    <label asp-for="Name">Employee Name</label>
+    <input type="text" class="form-control" asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger font-weight-bold"></span>
+    <br />
+
+    <label asp-for="salary">Employee salary</label>
+    <input type="text" class="form-control" asp-for="salary" />
+    <span asp-validation-for="salary" class="text-danger font-weight-bold"></span>
+    <br />
+
+    <center>
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-controller="Department" asp-action="Index" class="btn btn-primary">Back To Data</a>
+
+    </center>
+
+</form>
+
+@section JqueryValidation{
+    <script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

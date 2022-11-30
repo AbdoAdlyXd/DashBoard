@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery-visibility@1.0.11",
+      "destination": "wwwroot/plugins/jquery-visibility/"
+    }
+  ]
+}

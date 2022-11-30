@@ -1,0 +1,15 @@
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\bin\Debug\net5.0\Template.DAL.deps.json
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\bin\Debug\net5.0\Template.DAL.runtimeconfig.json
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\bin\Debug\net5.0\Template.DAL.runtimeconfig.dev.json
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\bin\Debug\net5.0\Template.DAL.dll
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\bin\Debug\net5.0\Template.DAL.pdb
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.csproj.AssemblyReference.cache
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.AssemblyInfoInputs.cache
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.AssemblyInfo.cs
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.dll
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\refint\Template.DAL.dll
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.pdb
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\Template.DAL.genruntimeconfig.cache
+C:\Users\AbdoAdly\source\repos\Template\Template.DAL\obj\Debug\net5.0\ref\Template.DAL.dll

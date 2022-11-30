@@ -1,0 +1,15 @@
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\bin\Debug\net5.0\Templale.BL.deps.json
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\bin\Debug\net5.0\Templale.BL.dll
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\bin\Debug\net5.0\Templale.BL.pdb
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\bin\Debug\net5.0\Template.DAL.dll
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\bin\Debug\net5.0\Template.DAL.pdb
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.csproj.AssemblyReference.cache
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.AssemblyInfoInputs.cache
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.AssemblyInfo.cs
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.csproj.CoreCompileInputs.cache
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.csproj.CopyComplete
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.dll
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\refint\Templale.BL.dll
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\Templale.BL.pdb
+C:\Users\AbdoAdly\source\repos\Template\Templale.BL\obj\Debug\net5.0\ref\Templale.BL.dll
